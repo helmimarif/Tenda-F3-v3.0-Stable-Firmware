@@ -4,7 +4,7 @@ Update :
 - Fix some bugs
 
 Notes :
-- Only firmware version V12.01.01.X can be upgraded to this firmware
-- Please upgrade your device by cable connections
-- Please unzip the file you downloaded and use the file ended with "bin" or "trx" to upgrade your device
+- Only firmware version V12.01.01.X can be upgraded to this firmware.
+- Please upgrade your device by cable connections.
+- Please unzip the file you downloaded and use the file ended with "bin" or "trx" to upgrade your device.
 - Do not power off the device when upgrading.
